@@ -47,10 +47,11 @@
     <p id="SetelahKlikBeli"></p>
     <script>
       function KlikBeli(Nomor) {
+        let Barang;
         switch (Nomor) {
-          case 1: let Barang = "Buku"; break;
-          case 2: let Barang = "Pensil"; break;
-          case 3: let Barang = "Pensil Warna"; break;
+          case 1: Barang = "Buku"; break;
+          case 2: Barang = "Pensil"; break;
+          case 3: Barang = "Pensil Warna"; break;
         }
         document.getElementById("SetelahKlikBeli").innerHTML = "Sudah! Kamu membeli " + Barang + ".";
       }
