@@ -2,7 +2,17 @@
 <html>
   <head>
     <title>Keiswara</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+      body {
+        font-family: sans-serif;
+      }
+      .td-harga {
+        text-align: right;
+      }
+      .td-tombol {
+        text-align: center;
+      }
+    </style>
   </head>
   <body>
     <h1>Keiswara</h1>
@@ -17,24 +27,28 @@
       <tr>
         <td>Buku</td>
         <td>1 buah</td>
-        <td style="text-align: right;">5000</td>
-        <td style="text-align: center;"><button onclick="KlikBeli()">Beli</button></td>
+        <td class="td-harga">5000</td>
+        <td class="td-tombol"><button onclick="KlikBeli(Buku)">Beli</button></td>
       </tr>
       <tr>
         <td>Pensil</td>
         <td>1 buah</td>
-        <td style="text-align: right;">3000</td>
-        <td style="text-align: center;"><button onclick="KlikBeli()">Beli</button></td>
+        <td class="td-harga">3000</td>
+        <td class="td-tombol"><button onclick="KlikBeli(Pensil)">Beli</button></td>
       </tr>
       <tr>
         <td>Pensil Warna</td>
         <td>15 warna</td>
-        <td style="text-align: right;">45000</td>
-        <td style="text-align: center;"><button onclick="KlikBeli()">Beli</button></td>
+        <td class="td-harga">45000</td>
+        <td class="td-tombol"><button onclick="KlikBeli(PensilWarna)">Beli</button></td>
       </tr>
     </table>
     <p>Pilih barang yang kamu mau lalu klik Beli.</p>
     <p id="SetelahKlikBeli"></p>
-    <script src="script.js"></script>
+    <script>
+      function KlikBeli(Barang) {
+        document.getElementById("SetelahKlikBeli").innerHTML = "Sudah! Kamu membeli " + Barang.value + ".";
+      }
+    </script>
   </body>
 </html>
