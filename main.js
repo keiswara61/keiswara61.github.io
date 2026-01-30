@@ -1,4 +1,4 @@
-const tombolSuka = document.getElementById("tombolSuka");
-const telahSuka = document.getElementById("telahSuka");
-
-tombolSuka.addEventListener("click", telahSuka.innerHTML = "Terima kasih!");
+document.getElementById("tombolSuka").addEventListener("click", telahSuka);
+function telahSuka() {
+  document.getElementById("telahSuka").textContent = "Terima kasih!";
+}
