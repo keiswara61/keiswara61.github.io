@@ -2,6 +2,6 @@ h1, p, caption, th, td, li {
   font-family: sans-serif;
 }
 .gambar {
-  font-size: 150%;
-  background-color: tomato;
+  text-align: center;
+  font-size: 300%;
 }
