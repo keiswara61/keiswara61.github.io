@@ -1,60 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>Keiswara</title>
-    <style>
-      body {
-        font-family: sans-serif;
-      }
-      .td-harga {
-        text-align: right;
-      }
-      .td-tombol {
-        text-align: center;
-      }
-    </style>
   </head>
   <body>
     <h1>Keiswara</h1>
-    <p>Halo, nama saya Keiswara! Ini adalah halaman GitHub saya, selamat datang! Saya menjual beberapa barang yang bisa kamu beli.</p>
-    <table>
-      <tr>
-        <th>Barang</th>
-        <th>Banyak</th>
-        <th>Harga</th>
-        <th>Tombol</th>
-      </tr>
-      <tr>
-        <td>Buku</td>
-        <td>1 buah</td>
-        <td class="td-harga">5000</td>
-        <td class="td-tombol"><button onclick="KlikBeli(1)">Beli</button></td>
-      </tr>
-      <tr>
-        <td>Pensil</td>
-        <td>1 buah</td>
-        <td class="td-harga">3000</td>
-        <td class="td-tombol"><button onclick="KlikBeli(2)">Beli</button></td>
-      </tr>
-      <tr>
-        <td>Pensil Warna</td>
-        <td>15 warna</td>
-        <td class="td-harga">45000</td>
-        <td class="td-tombol"><button onclick="KlikBeli(3)">Beli</button></td>
-      </tr>
-    </table>
-    <p>Pilih barang yang kamu mau lalu klik Beli.</p>
-    <p id="SetelahKlikBeli"></p>
-    <script>
-      function KlikBeli(Nomor) {
-        let Barang;
-        switch (Nomor) {
-          case 1: Barang = "Buku"; break;
-          case 2: Barang = "Pensil"; break;
-          case 3: Barang = "Pensil Warna"; break;
-        }
-        document.getElementById("SetelahKlikBeli").innerHTML = "Sudah! Kamu membeli " + Barang + ".";
-      }
-    </script>
+    <p>Halo, nama saya Keiswara! Ini adalah halaman GitHub saya, selamat datang!</p>
   </body>
 </html>
