@@ -1,7 +1,7 @@
 # Keiswara
 Navigasi:
-[Beranda](https://keiswara61.github.io/)
-[KPS](https://keiswara61.github.io/KPS)
+- [Beranda](https://keiswara61.github.io/)
+- [KPS](https://keiswara61.github.io/KPS/)
 
 ## Perkenalan
 Halo, nama saya Keiswara, tinggal di Indonesia, dan berbicara Bahasa Indonesia! Ini adalah halaman GitHub Pages saya, selamat datang! Kunjungi [keiswara61.github.io](https://keiswara61.github.io/) untuk mengunjungi GitHub Pages saya.
