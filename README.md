@@ -1,13 +1,13 @@
 Navigasi:
 - [Beranda](https://keiswara61.github.io/): Halaman Beranda GitHub Pages Keiswara.
-- [KPS](https://keiswara61.github.io/KPS/): Halaman KPS, berisi skrip ImageMagick dan PowerShell untuk pekerjaan saya.
+- [KPS](https://keiswara61.github.io/KPS/): Halaman KPS, berisi skrip PowerShell untuk pekerjaan saya.
 - [GitHub](https://github.com/keiswara61/): Halaman GitHub Keiswara.
 
 ## Perkenalan
-Halo, nama saya Keiswara, tinggal di Indonesia, dan berbicara Bahasa Indonesia! Ini adalah halaman Beranda GitHub Pages saya, selamat datang! Kunjungi [keiswara61.github.io](https://keiswara61.github.io/) untuk mengunjungi halaman Beranda GitHub Pages saya.
+Halo, nama saya Keiswara, tinggal di Indonesia, dan berbicara Bahasa Indonesia! Ini adalah Halaman Beranda GitHub Pages Keiswara, selamat datang! Kunjungi [keiswara61.github.io](https://keiswara61.github.io/) untuk mengunjungi Halaman Beranda GitHub Pages Keiswara.
 
 ## Berbicara
-Saya memulai GitHub pada tahun 2015 dengan memposting beberapa aplikasi memakai bahasa AutoHotkey tentang backup dan random. Pada tahun 2018 saya memposting beberapa skrip memakai bahasa Visual Basic for Applications untuk pekerjaan saya. Pada tahun 2026 saya memposting beberapa skrip memakai bahasa ImageMagick dan PowerShell untuk pekerjaan saya.
+Saya memulai GitHub pada tahun 2015 dengan memposting beberapa aplikasi memakai bahasa AutoHotkey tentang backup dan random. Pada tahun 2018 saya memposting beberapa skrip memakai bahasa Visual Basic for Applications untuk pekerjaan saya. Pada tahun 2026 saya memposting beberapa skrip memakai bahasa PowerShell untuk pekerjaan saya.
 
 ## Update
-Pada tanggal 15 Februari 2026 repositori **keiswara61.github.io** masih aktif.
+Pada tanggal 28 April 2026 repositori **keiswara61.github.io** masih aktif.
