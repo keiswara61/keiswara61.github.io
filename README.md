@@ -1,6 +1,6 @@
 Navigasi:
 - [Beranda](https://keiswara61.github.io/): Halaman Beranda GitHub Pages Keiswara.
-- [KPS](https://keiswara61.github.io/KPS/): Halaman KPS, berisi skrip PowerShell untuk pekerjaan saya.
+- [KPS](https://keiswara61.github.io/KPS/): Halaman KPS berisi skrip PowerShell untuk pekerjaan saya.
 - [GitHub](https://github.com/keiswara61/): Halaman GitHub Keiswara.
 
 ## Perkenalan
@@ -10,4 +10,4 @@ Halo, nama saya Keiswara, tinggal di Indonesia, dan berbicara Bahasa Indonesia! 
 Saya memulai GitHub pada tahun 2015 dengan memposting beberapa aplikasi memakai bahasa AutoHotkey tentang backup dan random. Pada tahun 2018 saya memposting beberapa skrip memakai bahasa Visual Basic for Applications untuk pekerjaan saya. Pada tahun 2026 saya memposting beberapa skrip memakai bahasa PowerShell untuk pekerjaan saya.
 
 ## Update
-Pada tanggal 9 Mei 2026 repositori **keiswara61.github.io** masih aktif.
+Pada tanggal 12 Mei 2026 repositori **keiswara61.github.io** masih aktif.
